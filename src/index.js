@@ -26,5 +26,11 @@ import ReactDOM from 'react-dom';
 // ReactDOM.render(<List />, document.getElementById('app'));
 
 //Lesson List
-import Lessonslist from './components/Charpter.js';
-ReactDOM.render(<Lessonslist/>, document.getElementById('app'));
+//import Lessonslist from './components/Charpter.js';
+//ReactDOM.render(<Lessonslist/>, document.getElementById('app'));
+
+// import PercentageApp from './components/PercentageApp'; 
+// ReactDOM.render(<PercentageApp />, document.getElementById('app'));
+
+import CommentApp from './components/CommentApp'; 
+ReactDOM.render(<CommentApp />, document.getElementById('app'));

@@ -29,7 +29,6 @@ class ImgFigureComponent extends Component {
 	}
 }
 
-//从react组件原型上扩展一个组件并渲染
 class AppComponent extends Component {
 	render() {
 		var controllerUnits = [],
